@@ -4,7 +4,7 @@ import classes from './AvailableMeals.module.css';
 
 const DUMMY_MEALS = [
     {
-        id: 'm1',
+        id: 'm',
         name: 'Sushi',
         description: 'Finest fish and veggies',
         price: 22.99,
